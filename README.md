@@ -20,3 +20,10 @@ Once we have done configuration for zookeeper. we need to start kafka server. he
 
 
 Added dependency in pom file : Spring kafka.
+
+
+Reference sites: 
+  
+  1. https://memorynotfound.com/spring-kafka-json-serializer-deserializer-example/
+  2. https://kafka.apache.org/documentation/
+  3. https://www.confluent.io/blog/apache-kafka-spring-boot-application/
